@@ -65,7 +65,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 There is no tests for this project.
 
-## 🎅 contributors
+## 🎅 Autor
 
 Roman: https://github.com/romasmv
 
